@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "DZzMMrnbIGEX6LTTInMm0ER+33cf94dh5TKlwRXhlQAm+XRZHZW2b9WfF1OgLK3LWnnJ/ffAa92cnyU7qpbcmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EndersonFlorian\\Documents\\Enderson\\BuberBreakFast\\BuberBreakFast\\BuberBreakFast\\BuberBreakFast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EndersonFlorian\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\EndersonFlorian\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\EndersonFlorian\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\EndersonFlorian\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\EndersonFlorian\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\EndersonFlorian\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\EndersonFlorian\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
