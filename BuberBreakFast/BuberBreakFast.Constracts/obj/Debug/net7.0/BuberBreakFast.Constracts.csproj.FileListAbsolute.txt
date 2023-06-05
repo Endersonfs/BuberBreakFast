@@ -1,0 +1,12 @@
+C:\Users\EndersonFlorian\Documents\Enderson\BuberBreakFast\BuberBreakFast\BuberBreakFast.Constracts\bin\Debug\net7.0\BuberBreakFast.Constracts.deps.json
+C:\Users\EndersonFlorian\Documents\Enderson\BuberBreakFast\BuberBreakFast\BuberBreakFast.Constracts\bin\Debug\net7.0\BuberBreakFast.Constracts.dll
+C:\Users\EndersonFlorian\Documents\Enderson\BuberBreakFast\BuberBreakFast\BuberBreakFast.Constracts\bin\Debug\net7.0\BuberBreakFast.Constracts.pdb
+C:\Users\EndersonFlorian\Documents\Enderson\BuberBreakFast\BuberBreakFast\BuberBreakFast.Constracts\obj\Debug\net7.0\BuberBreakFast.Constracts.csproj.AssemblyReference.cache
+C:\Users\EndersonFlorian\Documents\Enderson\BuberBreakFast\BuberBreakFast\BuberBreakFast.Constracts\obj\Debug\net7.0\BuberBreakFast.Constracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EndersonFlorian\Documents\Enderson\BuberBreakFast\BuberBreakFast\BuberBreakFast.Constracts\obj\Debug\net7.0\BuberBreakFast.Constracts.AssemblyInfoInputs.cache
+C:\Users\EndersonFlorian\Documents\Enderson\BuberBreakFast\BuberBreakFast\BuberBreakFast.Constracts\obj\Debug\net7.0\BuberBreakFast.Constracts.AssemblyInfo.cs
+C:\Users\EndersonFlorian\Documents\Enderson\BuberBreakFast\BuberBreakFast\BuberBreakFast.Constracts\obj\Debug\net7.0\BuberBreakFast.Constracts.csproj.CoreCompileInputs.cache
+C:\Users\EndersonFlorian\Documents\Enderson\BuberBreakFast\BuberBreakFast\BuberBreakFast.Constracts\obj\Debug\net7.0\BuberBreakFast.Constracts.dll
+C:\Users\EndersonFlorian\Documents\Enderson\BuberBreakFast\BuberBreakFast\BuberBreakFast.Constracts\obj\Debug\net7.0\refint\BuberBreakFast.Constracts.dll
+C:\Users\EndersonFlorian\Documents\Enderson\BuberBreakFast\BuberBreakFast\BuberBreakFast.Constracts\obj\Debug\net7.0\BuberBreakFast.Constracts.pdb
+C:\Users\EndersonFlorian\Documents\Enderson\BuberBreakFast\BuberBreakFast\BuberBreakFast.Constracts\obj\Debug\net7.0\ref\BuberBreakFast.Constracts.dll
